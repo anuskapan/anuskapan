@@ -15,19 +15,19 @@ I enjoy solving problems, understanding how systems work, and creating technolog
 
 ## ⚡ My Technical Skills
 
-**Languages**
+**Languages:**
 Python · Java · C · SQL · 
 
-**Machine Learning**
+**Machine Learning:**
 scikit-learn · NLP · Classification Models · Decision Trees · Random Forest · Pandas · NumPy
 
-**Data Analytics**
+**Data Analytics:**
 Excel · PowerBI · SQL · PostgreSQL
 
-**AI Tools & Automation**
+**AI Tools & Automation:**
 n8n · Quadratic · Supabase · Github · VS Code 
 
-**Core CS**
+**Core CS:**
 DSA · DBMS · Operating Systems · OOP · Computer Networks
 
 ---
@@ -48,7 +48,10 @@ Building smarter sustainability workflows through data and automation.
 
 ### 💰 FinBot
 
-Helping users track spending, savings, and financial habits intelligently.
+Helping users track spending, savings and financial habits intelligently.
+
+
+
 ---
 
 ## 🌻 Beyond Coding
@@ -68,14 +71,14 @@ I believe great things are built when people work together, support each other, 
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: [LinkedIn](https://linkedin.com/in/anuska-pan2004)
-💻 GitHub: anuskapan
+💼 LinkedIn: [LinkedIn](https://linkedin.com/in/anuska-pan2004)<br>
+💻 GitHub:anuskapan<br>
 📧 anuskapan04@gmail.com
 
 Thanks for visiting my profile — feel free to explore my work, projects, and random experiments along the way ✨
 
 
-<!--
+
 **anuskapan/anuskapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
